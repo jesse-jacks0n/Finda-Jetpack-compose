@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89089329974",
+    "firebase_url": "https://finda-846fe-default-rtdb.firebaseio.com",
+    "project_id": "finda-846fe",
+    "storage_bucket": "finda-846fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89089329974:android:e40d62b579384e85d48197",
+        "android_client_info": {
+          "package_name": "com.example.findajc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89089329974-8qv0o9ign0si17u1s3u85miqunt00jts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDurise4P3nIzMzi9yFBLW9McEdRUWSML8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89089329974-8qv0o9ign0si17u1s3u85miqunt00jts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
